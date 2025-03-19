@@ -1,89 +1,20 @@
 body{
+     background-image: url("https://media.istockphoto.com/id/1253435451/vector/fantastic-wonderland-forest-landscape-with-road-mushrooms-ferns-white-rabbit-runs-in-the-fog.jpg?s=612x612&w=0&k=20&c=lWROMnlDm2S16327coICHRN-241sn_TdLM6nsjVsMs4=");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+h1{
      text-align: center;
+     color: darkolivegreen;
+     background-image: url("https://cdn.pixabay.com/video/2023/06/23/168515-839370213_tiny.jpg");
+     background-size: 100px
 }
-.row-1{
-     display: flex;
-     gap: 15px;
+h2{
+     background-color: beige;
+     width: 270px;
 }
-.row-1>button{
-     padding: 5px;
-     height: 30px;
-     background-color: red;
-     color: white;
-     position:relative;
-     top: 10px;
-     font-weight: 400;
-
+p{
+     text-align: center;
+     background-color: burlywood;
+     box-shadow: 10px 10px 10px 5px yellow;
 }
-.row-1>button:hover{
-     background-color: white;
-     color: red;;
-}
-.div-1{
-     display: flex;
-     background-color: red;
-     border: 15px solid red;
-}
-.div-2>button:hover{
-     background-color:blue;
-     color: white;
-}
-.div-3>button:hover{
-     background-color:blue;
-     color: white;
-}
-.div-4>button:hover{
-     background-color:blue;
-     color: white;
-}
-.div-9>button:hover{
-     background-color:blue;
-     color: white;
-}
-.div-8>button:hover{
-     background-color:blue;
-     color: white;
-}
-.div-7>button:hover{
-     background-color:blue;
-     color: white;
-}
-.div-19>button:hover{
-     background-color:blue;
-     color: white;
-}
-.div-18>button:hover{
-     background-color:blue;
-     color: white;
-}
-.div-10{
-     display: flex;
-     background-color: red;
-     border: 15px solid red;
-}
-.div-20{
-     display: flex;
-     background-color: red;
-     border: 15px solid red;
-}
-.p1{
-     width: 450px;
-}
-.footer{
-     display: flex;
-     justify-content: center;
-     gap: 15px;
-     background-color: gray;
-     border: 15px solid gray;
-}
-.footer ul{
-     list-style-type: none;
-     text-align: left;
-}
-body{
-     font-family: "Sigmar", sans-serif;
-     
-}
-.p2{
-     width: 1200px;
-}   
