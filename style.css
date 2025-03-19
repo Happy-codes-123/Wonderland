@@ -1,0 +1,89 @@
+body{
+     text-align: center;
+}
+.row-1{
+     display: flex;
+     gap: 15px;
+}
+.row-1>button{
+     padding: 5px;
+     height: 30px;
+     background-color: red;
+     color: white;
+     position:relative;
+     top: 10px;
+     font-weight: 400;
+
+}
+.row-1>button:hover{
+     background-color: white;
+     color: red;;
+}
+.div-1{
+     display: flex;
+     background-color: red;
+     border: 15px solid red;
+}
+.div-2>button:hover{
+     background-color:blue;
+     color: white;
+}
+.div-3>button:hover{
+     background-color:blue;
+     color: white;
+}
+.div-4>button:hover{
+     background-color:blue;
+     color: white;
+}
+.div-9>button:hover{
+     background-color:blue;
+     color: white;
+}
+.div-8>button:hover{
+     background-color:blue;
+     color: white;
+}
+.div-7>button:hover{
+     background-color:blue;
+     color: white;
+}
+.div-19>button:hover{
+     background-color:blue;
+     color: white;
+}
+.div-18>button:hover{
+     background-color:blue;
+     color: white;
+}
+.div-10{
+     display: flex;
+     background-color: red;
+     border: 15px solid red;
+}
+.div-20{
+     display: flex;
+     background-color: red;
+     border: 15px solid red;
+}
+.p1{
+     width: 450px;
+}
+.footer{
+     display: flex;
+     justify-content: center;
+     gap: 15px;
+     background-color: gray;
+     border: 15px solid gray;
+}
+.footer ul{
+     list-style-type: none;
+     text-align: left;
+}
+body{
+     font-family: "Sigmar", sans-serif;
+     
+}
+.p2{
+     width: 1200px;
+}   
